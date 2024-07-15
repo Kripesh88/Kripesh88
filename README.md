@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kripesh88
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on Software development Projects.
 - 📫 How to reach me kripeshneupane10@gmail.com
 
